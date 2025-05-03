@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tedlikeskix-alpaca-mcp-server-badge.png)](https://mseep.ai/app/tedlikeskix-alpaca-mcp-server)
+
 # Alpaca MCP Server
 
 This is a Model Context Protocol (MCP) server for Alpaca, allowing LLMs like Claude to interact with the Alpaca trading API. It enables trading stocks, checking positions, fetching market data, and managing your account - all through natural language.
